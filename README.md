@@ -1,7 +1,7 @@
 # Design Document
 
 Hrishant Shiwakoti Sharma
-Video overview: https://youtu.be/zD70JsuBJ6o
+
 
 ## Scope
 
